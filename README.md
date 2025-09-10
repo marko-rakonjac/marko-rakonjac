@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Marko 👋  
 
-<!--
-**marko-rakonjac/marko-rakonjac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Data Analyst exploring how to turn raw data into actionable insights.  
+Currently building a foundation in **SQL, Excel, and Python**, with the goal of breaking into technical data roles and continually growing toward advanced analytics and engineering.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Current Focus
+- Practicing SQL through Mode and SQLBolt tutorials  
+- Learning data storytelling and visualization  
+- Building a portfolio of small but meaningful projects  
+
+---
+
+## 🛠️ Skills in Progress
+- SQL (aggregation, joins, subqueries)  
+- Excel (formulas, lookups, pivot tables)  
+- Python (beginner data analysis libraries coming soon)  
+
+---
+
+## 📈 Goals
+- Use data to explore and answer **interesting, impactful questions**  
+- Take on projects that **challenge me technically** and expand my skills  
+- Commit to **continuous growth** in analytics and engineering to solve real-world problems  
+
+---
+
+## 📬 Connect with Me
+- [LinkedIn](https://linkedin.com/in/your-link)
